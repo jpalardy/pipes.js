@@ -38,7 +38,7 @@ Changes you make update the data and get reflected in the view.
 
 
 
-An (Spidermonkey) example
+A Spidermonkey Example
 -----------------------------
 
 Consider this command-line: (5 largest file in a directory)
