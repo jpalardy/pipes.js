@@ -22,13 +22,13 @@ the changes propagate automatically to the DOM.
 A Live Example
 -----------------------------
 
-First, check this page: http://bookpiles.ca/jonathan/books
+First, check [this page](http://bookpiles.ca/jonathan/books)
 
 The chain looks like:
 
     data -> filter (query) -> filter (status) -> limiter (20) -> DOM
 
-You can see how I connected everything: http://bookpiles.ca/javascripts/ownerships.js
+You can see [how I connected everything](http://bookpiles.ca/javascripts/ownerships.js).
 
 Finally, these objects are live: go to a page with more than 5 books, open a JavaScript console on the page and try:
 
